@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "YTI3NzhlODM2ODljZTgwYTI0Nzg5MWEwOThkOGUzZjQ5OGI2MmQ4ZTU3Njc5OTU4ZTc0OTYyY2JkOGM1NzgwOTNhMDYzMTk5YTRhMTVmZjBjYTRmYjYwYjJlYjNlMzNmYjY3YzI3MTVjYzA4NDE2ZTU3M2FjNzBlNmZhODhkYWE=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "vucko1977",
+  "repository-name": "jhipster-sample-application"
+}
